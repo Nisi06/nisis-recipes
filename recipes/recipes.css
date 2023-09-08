@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(32, 31, 31);
+    color: bisque;
+}
+
+h1 {
+    font-size: 3rem;
+    text-align: center;
+    padding: 2rem;
+    text-decoration: underline;
+}
+
+img {
+    border-radius: 1rem;
+    width: 50%;
+    display: block;
+    margin: auto;
+}
+
+.txt-style {
+    padding: 2rem;
+}
+
+h2 {
+    font-size: 2rem;
+    margin-bottom: -0.5rem;
+}
+
+p, ul, ol {
+    font-size: 1.15rem;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    padding: 0.2rem;
+}

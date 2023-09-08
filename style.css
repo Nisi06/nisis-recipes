@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(32, 31, 31);
+    color: bisque;
+}
+
+h1 {
+    font-size: 4rem;
+    text-align: center;
+    padding: 2rem;
+}
+
+p {
+    text-align: center;
+    font-size: 1.25rem;
+}
+
+.flex-links {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.flex-links a {
+    text-align: center;
+    background-color: bisque;
+    border-radius: 3rem;
+    padding: 1rem;
+    font-size: 1.25rem;
+    color: black;
+    text-decoration: none;
+    margin: 1rem;
+}
+
+.flex-links a:hover {
+    background-color: black;
+    color: bisque;
+}
